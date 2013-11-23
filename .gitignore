@@ -1,0 +1,17 @@
+# IntelliJ ignores
+*.iws
+# want .idea/* files, but not all
+.idea/gradle.xml
+.idea/libraries/
+.idea/misc.xml
+.idea/scopes/
+.idea/workspace.xml
+
+# General ignores
+log/
+target/
+classes/
+
+# Mac OS X
+.DS_Store
+._*
